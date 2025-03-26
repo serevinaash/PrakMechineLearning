@@ -1,0 +1,35 @@
+Latihan Modul 1
+
+1. Dataset: Communities and Crime
+Deskripsi: Dataset ini berisi data numerik yang telah dinormalisasi ke rentang 0.00–1.00 menggunakan metode binning interval yang sama.​
+UCI Machine Learning Repository
+https://archive.ics.uci.edu/dataset/320/student+performance
+Jenis Data:
+Interval: Data numerik yang dinormalisasi tanpa nol mutlak, sehingga perbedaan antara nilai memiliki makna, tetapi perbandingan rasio tidak.
+
+2. Dataset: Support2
+Deskripsi: Dataset ini digunakan untuk tujuan edukasi, termasuk tugas klasifikasi biner seperti kematian di rumah sakit, dan regresi ordinal seperti disabilitas fungsional pasien pada skala 5 poin.​
+UCI Machine Learning Repository
+https://archive.ics.uci.edu/dataset/880/support2
+Jenis Data:
+Ordinal: Variabel disabilitas fungsional yang diukur pada skala 5 poin, menunjukkan tingkatan dengan urutan tertentu.
+Nominal: Variabel kategori tanpa urutan, seperti jenis kelamin atau status pernikahan.
+
+3. Dataset: Trains
+Deskripsi: Dataset ini mencatat hubungan antara atribut dengan menyediakan pengetahuan latar belakang yang memberikan urutan parsial pada beberapa nilai atribut.​
+UCI Machine Learning Repository
+https://archive.ics.uci.edu/dataset/103/trains
+Jenis Data:
+Ordinal: Atribut dengan urutan parsial yang menunjukkan tingkatan tertentu.
+Nominal: Atribut kategori tanpa urutan tertentu.
+
+4. Dataset: University
+Deskripsi: Setiap observasi dalam dataset ini berkaitan dengan satu universitas, dengan beberapa atribut yang mungkin memiliki lebih dari satu nilai untuk satu observasi.​
+UCI Machine Learning Repository
+https://archive.ics.uci.edu/dataset/104/university
+Jenis Data:
+Nominal: Atribut seperti nama universitas atau lokasi yang tidak memiliki urutan tertentu.
+Ordinal: Jika ada atribut yang menunjukkan peringkat atau tingkatan universitas.
+
+
+
