@@ -83,8 +83,7 @@ Dataset yang digunakan adalah `dataset_buys_comp.csv`. Dataset ini berisi bebera
 
 ## 📈 Hasil Akhir
 
-- Akurasi model terbaik: `xx.xx%`
-- Nilai AUC: `0.xx`
+- Akurasi model terbaik: `0.81%`
 - Model menunjukkan performa yang baik dalam mengklasifikasikan data berdasarkan fitur yang tersedia.
 
 ---
